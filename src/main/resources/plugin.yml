@@ -1,0 +1,10 @@
+name: Plotmenu
+version: '${project.version}'
+main: de.lolertop.plotmenu.Plotmenu
+api-version: 1.16
+authors: [ lolertop ]
+
+commands:
+  p:
+  plot:
+  plotmenu:
